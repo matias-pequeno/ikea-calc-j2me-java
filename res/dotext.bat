@@ -1,0 +1,1 @@
+c:\Laburo\MobileShared\tools\TextEncoder\bin\Release\TextEncoder.exe -c:\Laburo\MovilGate\CalculadoraEasy\res\text.txt -c:\Laburo\MovilGate\CalculadoraEasy\res\text_es\t -c:\Laburo\MovilGate\CalculadoraEasy\src\util\Text.java 

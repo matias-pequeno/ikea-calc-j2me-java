@@ -1,0 +1,583 @@
+
+SPANISH
+
+
+
+#ENGLISH
+
+
+
+#DEUTCH
+
+
+
+#FRENCH
+
+
+
+#ITALIAN
+
+
+#STRINGS
+
+str_NULL_STRING
+	" "
+	" "
+	" "
+	" "
+	" "
+
+str_CANTPAREDESHELP_MINI
+	"Ingrese la cantidad de paredes y luego pulse el botón Seguir. Para más ayuda, seleccione y pulse el botón de Ayuda!"
+	""
+	""
+	""
+	""
+
+str_MEASURE_WALL_HELP_MINI
+	"Ingrese las medidas de la pared. Si desea ingresar ventanas y paredes, elija Seguir, si no, elija Listo. Para más ayuda pulse Ayuda."
+	""
+	""
+	""
+	""
+
+str_MEASURE_WINDOW_HELP_MINI
+	"Ingrese las medidas de la ventana. Si desea ingresar paredes, elija Seguir, si no, elija Listo o Atrás para modificar una opción anterior. Para más ayuda pulse Ayuda."
+	""
+	""
+	""
+	""
+
+str_MEASURE_DOOR_HELP_MINI
+	"Ingrese las medidas de la puerta, cuando termine, elija Listo o pulse Atrás para modificar una opción anterior. Para más ayuda pulse Ayuda."
+	""
+	""
+	""
+	""
+	
+str_BIG_MEASURE_HELP
+	"bbla blab lab lalba blabl abl abl ablbal b lab labl a"
+	""
+	""
+	""
+	""
+	
+str_ABOVE_MAX_WALLS
+	"Sólo se permiten entre 1 y 10 paredes."
+	""
+	""
+	""
+	""
+
+str_WRITE_SOMETHING
+	"Este campo no debe estar vacío."
+	""
+	""
+	""
+	""
+		
+str_BACK_TO_PAINT_MENU
+	""
+	""
+	""
+	""
+	""
+
+str_CALCULATOR_TYPE_PINTURA
+	"Pintura"
+	""
+	""
+	""
+	""
+
+str_CALCULATOR_TYPE_CERAMICOS
+	"Pisos Cerámicos"
+	""
+	""
+	""
+	""
+
+str_CALCULATOR_TYPE_LAMINADOS
+	"Pisos Laminados"
+	""
+	""
+	""
+	""
+
+str_CALCULATOR_TYPE_PARED
+	"Pared"
+	""
+	""
+	""
+	""
+
+str_CALCULATOR_TYPE_VENTANA
+	"Ventana"
+	""
+	""
+	""
+	""
+
+str_CALCULATOR_TYPE_PUERTA
+	"Puerta"
+	""
+	""
+	""
+	""
+
+str_CALCULATE
+	"Calcular!"
+	""
+	""
+	""
+	""
+
+str_USER
+	"Usuario"
+	"User"
+	""
+	""
+	""
+
+str_PASSWORD
+	"Contraseña"
+	"Password"
+	""
+	""
+	""
+
+str_LOGIN_ERROR
+	"Error al conectarse!"
+	"Error while login in"
+	""
+	""
+	""
+
+str_ERROR
+	"Error, vuelva a intentar."
+	"Error"
+	""
+	""
+	""
+	
+str_CONNECTING
+	"Ingresando..."
+	"Connecting..."
+	""
+	""
+	""
+	
+str_PASSWORD_ERROR
+	"Usuario o contraseña incorrecta!"
+	"Wrong user or password!"
+	""
+	""
+	""
+
+str_LOGIN_IN
+	"Comprobando contraseña"
+	"Login in"
+	""
+	""
+	""
+	
+str_PLEASE_WAIT
+	"Por favor, espere..."
+	"Please wait..."
+	""
+	""
+	""
+
+str_EASTER_EGG
+	"Easter Egg!"
+	"Easter Egg!"
+	""
+	""
+	""
+
+str_PRESS_KEY_TO_CONTINUE
+	"Presione para continuar"
+	"Press a key to continue"
+	""
+	""
+	""
+
+str_EXIT
+	"Salir"
+	""
+	""
+	""
+	""
+	
+str_BIDS
+	"SUBASTAS"
+	"BIDS"
+	""
+	""
+	""
+	
+str_NOVEDADES
+	"NOVEDADES"
+	"NEWS"
+	""
+	""
+	""
+
+str_INBOX
+	"INBOX"
+	"INBOX"
+	""
+	""
+	""
+	
+str_MYPROFILE
+	"MI PERFIL"
+	"MY PROFILE"
+	""
+	""
+	""
+
+str_CODELOAD
+	"CLAVES"
+	"CODES"
+	""
+	""
+	""
+	
+str_SUBASTA
+	"SUBASTA!"
+	"BID!"
+	""
+	""
+	""
+	
+str_EN_CONSTRUCCION
+	"En construcción!"
+	"Building!"
+	""
+	""
+	""
+	
+str_LOAD
+	"CARGAR!"
+	"LOAD!"
+	""
+	""
+	""
+	
+str_ENSUBASTA
+	"Actualmente en subasta"
+	"Currently bidding"
+	""
+	""
+	""
+
+str_ENSUBASTA_COMPACT
+	"En subasta"
+	"On bid"
+	""
+	""
+	""
+
+str_USED
+	"Ya usados"
+	"Used"
+	""
+	""
+	""
+	
+str_TOTAL
+	"Totales"
+	"Total"
+	""
+	""
+	""
+	
+str_AVAILABLE
+	"Disponibles"
+	"Available"
+	""
+	""
+	""
+	
+str_CODEUSED
+	"Esta clave ya fue usada, por favor intentá con otra!"
+	""
+	""
+	""
+	""
+	
+str_CODEINCORRECT
+	"La clave es incorrecta, por favor intentá con otra!"
+	""
+	""
+	""
+	""
+	
+str_CODEOK
+	"Tu clave fue ingresada! %d puntos fueron acreditados a tu cuenta!"
+	""
+	""
+	""
+	""
+
+str_CODEMAXTEN
+	"Superaste el límite de las 10 claves. No pueden cargarse más!"
+	""
+	""
+	""
+	""
+	
+str_CODEUSED_COMPACT
+	"Clave usada, intentá con otra!"
+	""
+	""
+	""
+	""
+	
+str_CODEINCORRECT_COMPACT
+	"Clave incorrecta, intentá con otra!"
+	""
+	""
+	""
+	""
+	
+str_CODEOK_COMPACT
+	"%d puntos se acreditaron en tu cuenta!"
+	""
+	""
+	""
+	""
+
+str_CODEMAXTEN_COMPACT
+	"Superaste el límite de las 10 claves!"
+	""
+	""
+	""
+	""
+	
+str_PASSERROR
+	"Usuario y/o contraseña inválidos, volvé a intentarlo"
+	""
+	""
+	""
+	""
+
+str_PASSERROR_COMPACT
+	"Usuario y/o contraseña inválidos"
+	""
+	""
+	""
+	""
+	
+str_TERMS
+	"Términos y Condiciones"
+	""
+	""
+	""
+	""
+
+str_NEWS1
+	"Juank ganó un iPod Nano..."
+	""
+	""
+	""
+	""
+
+str_NEWS2
+	"El grupo LoVaho ganó un..."
+	""
+	""
+	""
+	""
+	
+str_NEWS3
+	"La camioneta sigue vige..."
+	""
+	""
+	""
+	""
+	
+str_NEWS4
+	"Obtené más puntos carga..."
+	""
+	""
+	""
+	""
+	
+str_NEWS5
+	"Se sumaron 5 premios en..."
+	""
+	""
+	""
+	""
+	
+str_NEWS6
+	"Te quedaste sin puntos?..."
+	""
+	""
+	""
+	""
+
+str_INBOX1
+	"Juank quiere ser miembr..."
+	""
+	""
+	""
+	""
+	
+str_INBOX2
+	"JuanK: Yo creo que en 2..."
+	""
+	""
+	""
+	""
+	
+str_INBOX3
+	"Superaron tu oferta por..."
+	""
+	""
+	""
+	""
+	
+str_INBOX4
+	"PedroG acepto ser parte..."
+	""
+	""
+	""
+	""
+
+str_INBOX5
+	"Felicitaciones tu grupo..."
+	""
+	""
+	""
+	""
+	
+str_INBOX6
+	"GuidoCM: Muerto! Que te..."
+	""
+	""
+	""
+	""
+
+str_INBOX7
+	"En el bosque vive un vi..."
+	""
+	""
+	""
+	""
+	
+str_INBOX8
+	"Yo vivia, yo vivia muy ..."
+	""
+	""
+	""
+	""
+
+str_INBOX9
+	"Caminaba, caminaba sin ..."
+	""
+	""
+	""
+	""
+	
+str_INBOX10
+	"Pero un día, vino el ho..."
+	""
+	""
+	""
+	""
+	
+str_LANG1
+	"English"
+	"English"
+	""
+	""
+	""
+
+str_LANG2
+	"Español"
+	"Español"
+	""
+	""
+	""
+
+str_LANG3
+	""
+	""
+	""
+	""
+	""
+
+str_LANG4
+	""
+	""
+	""
+	""
+	""
+
+str_LANG5
+	""
+	""
+	""
+	""
+	""
+
+str_YES
+	"Si"
+	"Yes"
+	""
+	""
+	""
+
+str_NO
+	"No"
+	"No"
+	""
+	""
+	""
+	
+str_OK
+	"OK"
+	"OK"
+	""
+	""
+	""
+
+str_BACK
+	"Atras"
+	"Back"
+	""
+	""
+	""
+
+#slow
+
+str_HELP_TEXT
+	"Este es un texto largo. Un texto gigante. Un texto con proporciones que pueden llegar más allá de la imaginación de los hombres. Algo inevitable, la gigantez de este texto. De una inmensidad magnánima, sólo pocos lograran ver su magnitud, pocos se jactaran de ser los líderes de este mundo y así, se autoproclamaran mejores que los demás, más inteligentes, más sabios, más fuertes. La gente se sollozará ante la inevitabilidad de lo grande que este texto puede ser, y como consecuencia, de sus líderes. Los admiraran, los idolatraran, y al final, se daran cuenta de cuán poco valen. Porque al fin y al cabo, un texto largo que no dice nada, no sirve para nada."
+	""
+	""
+	""
+	""
+
+str_TERMS_TEXT
+	"Consulta los términos y condiciones en Easy. Apto para cualquier edad."
+	""
+	""
+	""
+	""
+	
+str_DEMO_BID
+	"Caja de fichas originales del Casino de Mar del Plata!\n2,014 puntos\n\nCaja de fichas originales de Casino!\n2,014 puntos\n\nCaja de fichas originales del Casino de Mar del Plata!\n2,014 puntos\n\nCaja de fichas originales del Casino de Buenos Aires!\n1,404 puntos"
+	""
+	""
+	""
+	""
+
+str_EOF
+	""
+	""
+	""
+	""
+	""
